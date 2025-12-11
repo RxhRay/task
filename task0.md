@@ -1,4 +1,4 @@
-**task0**
+#**task0**#
 
 1.我使用git init 在我的本地作业仓库完成了初始化，现在我的本地仓库存在.git隐藏文件。
 
@@ -8,5 +8,7 @@
 
 4.我将暂存区的图片使用git push上传到我的github仓库的master分支
 
-5.![截图](C:\Users\Administrator\Desktop\我的作业仓库\task0.png)
+5.![截图]([task/task0.png at master · RxhRay/task](https://github.com/RxhRay/task/blob/master/task0.png)
+
+
 
