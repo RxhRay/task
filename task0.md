@@ -8,7 +8,7 @@
 
 4.我将暂存区的图片使用git push上传到我的github仓库的master分支
 
-5.![截图]([task/task0.png at master · RxhRay/task](https://github.com/RxhRay/task/blob/master/task0.png)
+5.![截图]([task/task0.png at master · RxhRay/task](https://github.com/RxhRay/task/blob/master/task0.png))
 
 
 
